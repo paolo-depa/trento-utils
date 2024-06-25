@@ -6,7 +6,7 @@ This project is aimed at providing utility functions for Trento support. It incl
 
 ## Tools
 
-# getcatalog.sh
+### getcatalog.sh
 
 This script retrieves the catalog from a Trento server installation running in a Kubernetes cluster.
 The script expects Trento username to be passed as the only argument (-u) and prompts for the corresponding password: then uses them to authenticate and retrieve the catalog.
